@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋  I'm Ruilong
+`Computer Science Graduate Student @ ECNU | Software Architect & Trustworthy AI Researcher`
 
-<!--
-**Qingxiu-ECNU/Qingxiu-ECNU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📚 Research & Interests  
+- **Primary Focus**:  
+  - Software Architecture Design & Patterns  
+  - Trustworthy AI (Explainability, Fairness, Robustness in ML Systems)  
+  - AI-driven Software Engineering (AI for Code Generation, Testing)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Current Projects**:  
+  - Designing a modular framework for ethical AI deployment  
+  - Researching architectural anti-patterns in AI-integrated systems  
+  - Building lightweight explainability tools for deep learning models  
+
+---
