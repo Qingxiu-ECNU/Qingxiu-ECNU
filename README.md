@@ -15,3 +15,11 @@
   - Building lightweight explainability tools for deep learning models  
 
 ---
+🎓 Education
+M.S. in Computer Science
+East China Normal University (ECNU) | 2023–Present
+
+Advisor: Dehui Du
+
+B.S. in Computer Science
+zju | 2018–2022
