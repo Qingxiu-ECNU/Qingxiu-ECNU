@@ -1,5 +1,5 @@
-# Hi there 👋  I'm Ruilong
-`Computer Science Graduate Student @ ECNU | Software Architect & Trustworthy AI Researcher`
+# Hi there 👋  I'm Raylon
+`Computer Science Graduate Student @ ECNU | Software Architecture & Trustworthy AI Researcher`
 
 ---
 
@@ -7,7 +7,7 @@
 - **Primary Focus**:  
   - Software Architecture Design & Patterns  
   - Trustworthy AI (Explainability, Fairness, Robustness in ML Systems)  
-  - AI-driven Software Engineering (AI for Code Generation, Testing)  
+  - AI-driven Software Engineering   
 
 - **Current Projects**:  
   - Designing a modular framework for ethical AI deployment  
@@ -18,8 +18,3 @@
 🎓 Education
 M.S. in Computer Science
 East China Normal University (ECNU) | 2023–Present
-
-Advisor: Dehui Du
-
-B.S. in Computer Science
-zju | 2018–2022
